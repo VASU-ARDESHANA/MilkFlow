@@ -19,7 +19,7 @@ MilkFlow is designed for **daily milk delivery businesses** to:
 > ⚠️ **Admin Access Only**  
 > Only registered admins can log in to the app. If you're a tester or want to try the app, please contact the developer at:
 >  
-> 📧 `developer.vasu.here@gmail.com`
+> 📧 [`developer.vasu.here@gmail.com`](mailto:developer.vasu.here@gmail.com)
 
 ---
 
