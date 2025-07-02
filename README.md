@@ -82,8 +82,4 @@ You are not allowed to:
 - Use it for paid services or business without permission.
 - Modify and distribute the app for profit.
 
-You are allowed to:
-- Download and test the APK.
-- Share feedback or feature suggestions.
-
 For business usage or partnership, contact the developer.
